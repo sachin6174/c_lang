@@ -1,0 +1,10 @@
+*.exe
+*.jpg
+*.png
+*.pdf
+*.mp4
+*.mkv
+/zz cource c zip
+/zz others
+*/.vscode
+/zzz softwares
